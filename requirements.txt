@@ -1,0 +1,4 @@
+download python 2
+install webdriver, chrome, and selenium.
+
+install any other module required
