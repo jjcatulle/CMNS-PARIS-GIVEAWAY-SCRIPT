@@ -42,3 +42,17 @@ def entry():
 
 for i in range(Entries):
     entry()
+print('   ')
+print('   ')
+print ("[" + (time.strftime("%H:%M:%S")) + "]" + "          Please Donate To: ")
+print ("[" + (time.strftime("%H:%M:%S")) + "]" + " the Epilepsy Foundation New England ")
+print ("[" + (time.strftime("%H:%M:%S")) + "]" + " 335 Main St., Wilmington, MA 01887")
+print ("[" + (time.strftime("%H:%M:%S")) + "]" + "              or  ")
+print ("[" + (time.strftime("%H:%M:%S")) + "]" + " the American Foundation for Suicide Prevention (AFSP) ")
+print ("[" + (time.strftime("%H:%M:%S")) + "]" + " 120 Wall St., 29th Floor, New York, NY 10005")
+print('   ')
+print('   ')
+
+''' hey guys someone closed to me passed away and its literally the hardest thing
+i've ever dealt with,it steal affect me everyday. Be nice to people, and always check on
+your friends'''
